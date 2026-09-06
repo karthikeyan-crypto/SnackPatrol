@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded TensorFlow model
+pretrained_models/
+
+# Generated detection snapshots
+snack_log/
+
+# TensorFlow Object Detection API
+models-1.12.0/
+models/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
