@@ -46,6 +46,10 @@ The project helped me understand how a pre-trained deep learning model can be co
 
 # ✨ Features
 
+### 💻 Optimized for Low-End Devices
+
+Snack Patrol is specifically tuned to run on low-end PCs, including systems without a dedicated graphics card. The project uses CPU-friendly settings such as controlled frame processing, confidence thresholds, and lightweight SSD MobileNet inference to provide practical real-time object detection on limited hardware.
+
 ## 🔍 Real-Time Object Detection
 
 The program continuously reads frames from a webcam and sends selected frames to the TensorFlow object detection model.
